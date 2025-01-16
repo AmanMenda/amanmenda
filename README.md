@@ -1,13 +1,11 @@
 # Hey there, I'm Aman! 👋
 
-I’m a **1st-year Master’s student in Software Engineering & IoT at Ynov**, I have a strong foundation in low-level development and a growing interest in Web3 technologies.
-
-I recently completed my **Bachelor's degree at EPITECH**, where I gained hands-on experience working on a variety of challenging and innovative projects. Among these, a few stand out as my proudest achievements:
+I’m a **first-year Master’s student in Software Engineering & IoT at Ynov**, I have a strong foundation in low-level development and a growing interest in Web3 technologies. I recently completed my **Bachelor's degree at EPITECH**, where I gained hands-on experience working on a variety of challenging and innovative projects. Among these, a few stand out as my proudest achievements:
 
 - **R-type**: (more details will be added)
 - **GlaDOS**: (more details will be added)
 
-Recently, I've developed a keen interest in **blockchain technology**, **DeFi**, **dApps**, and the broader **fintech** ecosystem. I'm fascinated by the potential of these technologies to revolutionize industries and create new opportunities. To stay ahead, I dedicate time every day to learning and keeping up with the latest trends and advancements in these domains.
+Recently, I've developed a keen interest in **blockchain technology**, **DeFi**, **dApps**, and the broader **fintech** ecosystem. I'm fascinated by the potential of these technologies to revolutionize industries and create new opportunities.
 
 > [!IMPORTANT]
 > I am currently seeking a **part-time apprenticeship** starting from **October 2025** as part of my end-of-studies program. My ideal role would be in one of the following areas:
@@ -19,7 +17,6 @@ I'm particularly interested in opportunities that allow me to apply my skills in
 
 <details>
 <summary><samp>Tools & Technologies I've Worked With</samp></summary>
-<br>
 
 ### <samp>Programming Languages</samp>
 - <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="20"/> **Dart**
