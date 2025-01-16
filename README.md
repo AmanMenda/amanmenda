@@ -32,8 +32,6 @@ I'm particularly interested in opportunities that allow me to apply my skills in
 - <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="20"/> **Flutter**
 - <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Express.js" width="20"/> **Express.js**
 - <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="20"/> **Next.js**
-- <img src="https://img.icons8.com/color/48/000000/boost.png" alt="Boost Asio" width="20"/> **Boost Asio**
-- <img src="https://img.icons8.com/color/48/000000/pytest.png" alt="Pytest" width="20"/> **Pytest**
 
 ### <samp>Databases</samp>
 - <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="20"/> **MongoDB**
@@ -46,10 +44,9 @@ I'm particularly interested in opportunities that allow me to apply my skills in
 - <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="20"/> **Docker**
 - <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="20"/> **Jenkins**
 - <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="20"/> **Ansible**
-- <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Microsoft Azure" width="20"/> **Microsoft Azure**
-- <img src="https://img.icons8.com/color/48/000000/coolify.png" alt="Coolify" width="20"/> **Coolify**
+- <img src="https://th.bing.com/th/id/R.1dbc8e5220638f7193ef9f5a24c2eb5b?rik=NczRoK26h8tMXw&riu=http%3a%2f%2fcoolify.io%2fcoolify-transparent.png&ehk=QBPUuJsLNqQsmWdzYet05RPUiNA8hI0s0WsGkUmc3iQ%3d&risl=&pid=ImgRaw&r=0" alt="Coolify" width="20"/> **Coolify**
 
-### <samp>Tools & Systems</samp>
+### <samp>Env</samp>
 - <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="20"/> **GitHub/GitLab**
 - <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="20"/> **Android Studio/Visual Studio**
 - <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="20"/> **Unix/Linux**
