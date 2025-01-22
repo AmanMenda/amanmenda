@@ -1,9 +1,8 @@
 # Hey there, I'm Aman! 👋
 
-I’m a **first-year Master’s student in Software Engineering & IoT at Ynov**, I have a strong foundation in low-level development and a growing interest in Web3 technologies. I recently completed my **Bachelor's degree at EPITECH**, where I gained hands-on experience working on a variety of challenging and innovative projects. Among these, a few stand out as my proudest achievements:
+I’m a **first-year Master’s student in Software Engineering & IoT at Ynov**, I have a strong foundation in low-level development and a growing interest in Web3 technologies. I recently completed my **Bachelor's degree at EPITECH**, where I gained hands-on experience working on a variety of challenging and innovative projects. Among these, one stand out as my proudest achievements:
 
-- **R-type**: (more details will be added)
-- **GlaDOS**: (more details will be added)
+**Prism**: an educational imperative programming language fully written in Haskell, developed during coursework at EPITECH to explore compiler design, virtual machines, AST & Symbolic Expressions for language implementation.
 
 Recently, I've developed a keen interest in **blockchain technology**, **DeFi**, **dApps**, and the broader **fintech** ecosystem. I'm fascinated by the potential of these technologies to revolutionize industries and create new opportunities.
 
