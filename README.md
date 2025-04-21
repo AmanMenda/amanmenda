@@ -9,7 +9,7 @@ Recently, I've developed a keen interest in **blockchain technology**, **DeFi**,
 > [!IMPORTANT]
 > I am currently seeking a **part-time apprenticeship** starting from **October 2025** as part of my end-of-studies program. My ideal role would be in one of the following areas:
 > - Blockchain development
-> - Fintech mobile app development
+> - Fintech desktop apps
 > - IoT
 
 I'm particularly interested in opportunities that allow me to apply my skills in a real-world setting, contribute to meaningful projects, and potentially transition into a full-time role after completing my studies.
